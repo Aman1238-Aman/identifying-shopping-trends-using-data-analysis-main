@@ -69,12 +69,12 @@ What insights can help improve sales strategies?
 
 Clone the repository
 
-git clone https://github.com/your-username/identifying-shopping-trends-using-data-analysis.git
-
+git clone https://github.com/Aman1238-Aman/identifying-shopping-trends-using-data-analysis-main.git
 
 Navigate to the project directory
 
 cd identifying-shopping-trends-using-data-analysis
+output http://127.0.0.1:5500/identifying-shopping-trends-using-data-analysis-main-main/
 
 
 Install dependencies
